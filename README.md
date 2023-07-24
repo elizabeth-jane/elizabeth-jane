@@ -26,9 +26,9 @@ I'm always excited to collaborate on exciting projects with fellow developers. I
 
 You can reach out to me through:
 
-- **Email**: [elizabeth@example.com](mailto:elizabeth@example.com)
-- **LinkedIn**: [Elizabeth Jane](https://www.linkedin.com/in/elizabeth-jane/)
-- **Portfolio**: [MyPortfolioWebsite](https://www.elizabeth-jane.dev/)
+- **Email**: enyinnaelizabethjane@gmail.com
+- **LinkedIn**: [Chidinma Enyinna]([https://www.linkedin.com/in/elizabeth-jane/](https://www.linkedin.com/in/chidinma-enyinna-69b5b0232/))
+- **Portfolio**: *coming soon*
 
 Feel free to drop me a message or connect with me. I'm looking forward to networking with like-minded individuals and sharing our passion for web development!
 
