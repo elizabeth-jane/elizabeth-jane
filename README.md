@@ -28,7 +28,7 @@ You can reach out to me through:
 
 - **Email**: enyinnaelizabethjane@gmail.com
 - **LinkedIn**: [Chidinma Enyinna](https://www.linkedin.com/in/chidinma-enyinna-69b5b0232/)
-- **Portfolio**: *coming soon*
+- **Portfolio**: https://t.co/eGa8PrSV6M 
 
 Feel free to drop me a message or connect with me. I'm looking forward to networking with like-minded individuals and sharing our passion for web development!
 
