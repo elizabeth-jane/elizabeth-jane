@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Elizabeth Jane!
+# 👋 Hey there, I'm Elizabeth-Jane!
 
 Welcome to my GitHub profile! I'm a Front End Web Developer on a mission to create captivating and user-friendly web experiences. I'm passionate about exploring the latest trends and technologies in the web development world.
 
