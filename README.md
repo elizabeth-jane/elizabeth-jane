@@ -28,7 +28,7 @@ You can reach out to me through:
 
 - **Email**: enyinnaelizabethjane@gmail.com
 - **LinkedIn**: [Elizabeth-Jane Enyinna](https://www.linkedin.com/in/elizabeth-jan3/)
-- **Portfolio**: https://t.co/eGa8PrSV6M 
+- **Portfolio**: [My Portfolio](https://t.co/eGa8PrSV6M)
 
 Feel free to drop me a message or connect with me. I'm looking forward to networking with like-minded individuals and sharing our passion for web development!
 
