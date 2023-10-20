@@ -15,7 +15,7 @@ I have a keen interest in:
 Continuous learning is the fuel that drives my journey. Currently, I'm focused on:
 
 - **React**: Mastering the ins and outs of React to build powerful and interactive front-end applications.
-- **TypeScript**: Unveiling the power of TypeScript for developing robust and type-safe applications.
+- **Tailwind CSS**: Unveiling the power of Tailwind CSS to streamline web design and create responsive, stylish interfaces efficiently.
 - **Performance Optimization**: Learning techniques to optimize website performance and deliver a blazing-fast user experience.
 
 ## 💞️ Let's Collaborate
